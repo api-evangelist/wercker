@@ -1,0 +1,67 @@
+{
+    "name": "Wercker",
+    "description": "Oracle's Wercker is a container-centric automation platform used to develop, build, test and deploy cloud-native applications. Wercker was founded in 2011 and has offices in San Francisco, London and Amsterdam. Wercker is used by organisations deployin...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19931-wercker.jpg",
+    "tags": [
+        "command line interface",
+        "containers",
+        "have api",
+        "microservices",
+        "orchestration"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/wercker\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Wercker",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19931-wercker.jpg",
+            "humanURL": "http:\/\/wercker.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/wercker-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.wercker.com\/"
+        },
+        {
+            "type": "Command Line Interface",
+            "url": "http:\/\/wercker.com\/cli\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/wercker"
+        },
+        {
+            "type": "Email",
+            "url": "pleasemailus@wercker.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/wercker"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/wercker.com\/pricing\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/wercker"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/wercker.com\/"
+        }
+    ]
+}
